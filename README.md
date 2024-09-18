@@ -28,7 +28,7 @@ slice-элементов в директории ./features/items
 - Выполнить в терминале команду `npm install`;
 ## Запуск локального сервера
 `npm run server` запустит сервер на https://localhost:8000;
-## Запуск проекта
+## Запуск проектаgit commit -m "first commit"
 `npm run start` или `npm start` запустит проект на https://localhost:3000;
 
 ### Функционал личного кабинета
